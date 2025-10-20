@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nym-futureclassonepager/static/css/main.61a84d71.css",
+    "main.js": "/nym-futureclassonepager/static/js/main.1392f556.js",
+    "index.html": "/nym-futureclassonepager/index.html",
+    "main.61a84d71.css.map": "/nym-futureclassonepager/static/css/main.61a84d71.css.map",
+    "main.1392f556.js.map": "/nym-futureclassonepager/static/js/main.1392f556.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61a84d71.css",
+    "static/js/main.1392f556.js"
+  ]
+}
